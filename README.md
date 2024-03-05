@@ -7,7 +7,7 @@
 - [Exemple](#exemple)
 - [Concluzii](#concluzii)
 - [Bibliografie](#bibliografie)
-
+ 
 # Motivatia <a name="motivatia"></a>
 Procesarea semnalului vocal are numeroase aplicații în aproape toate domeniile tehnice. Identificarea de gen este importantă în procesarea vorbirii. Acest proiect descrie o analiză comparativă a semnalelor de vorbire pentru a produce o clasificare automată de gen. Clasificarea de gen în funcție de semnalul de vorbire este o tehnică care analizează diverse caracteristici ale unui eșantion de voce pentru a determina sexul vorbitorului. 
 Este prezentată o aplicație pentru codificarea vorbirii, analiză, sinteză și identificare de gen. Un sistem tipic de recunoaștere a genului este împărțit în două părți: sistemul front-end și sistemul back-end. Sarcina sistemului front-end este de a extrage informații de gen dintr-un semnal de vorbire și de a o reprezenta ca un set de cadre. Sarcina sistemului back-end (cunoscut și ca clasificator) în faza de recunoaștere este de a crea un model de gen pentru a recunoaște genul din semnalul de vorbire.
